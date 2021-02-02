@@ -1,0 +1,41 @@
+.size1
+{
+    height: 50px;
+    width: 50px;
+}
+.Nav1
+{
+    position: relative;
+    left: 1500px;
+    top: -200px;
+}
+
+.Nav2
+{
+
+}
+.Quote
+{
+    position: relative;
+    left: 500px;
+    top: -150px;
+}
+
+.ScottKnife
+{
+    border:black;
+    position: relative;
+    top: -150px;
+height: 300px;
+width: 2000px;
+z-index: -1;
+}
+
+.JobDone
+{
+    height:1500px;
+    width: 2000px;
+    z-index: -1;
+    position: relative;
+    top: -200px;
+}
